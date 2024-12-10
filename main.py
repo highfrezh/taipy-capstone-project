@@ -2,11 +2,11 @@
 
 # TODO #2: Load environment variables
 
-# TODO #3: Define the folder path for PDF storage
+# TODO #3: Define the folder path for the FAQ text file
 
-# TODO #4: Initialize the PDF loaders
+# TODO #4: Initialize the data loader
 
-# TODO #5: Create the index
+# TODO #5: Create the document index
 
 # TODO #6: Configure the LLM and retrieval chain
 
